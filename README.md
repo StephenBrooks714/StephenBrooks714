@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenBrooks714
 - 👀 I’m interested in making CSS templates
-- 🌱 I’m currently learning Html, CSS, JavaScript
+- 🌱 I’m currently learning Html, CSS, JavaScript, React, Node, Express, React Hooks, Props, useEffect, useState
 - 💞️ I’m looking to work as a web developer for an I.T. company
 - I am open to hybrid, remote, or at an office if close enough. Might be willing to relocate if it is covered.
 - 📫 How to reach me, by email, stephenbrooks714@gmail.com
