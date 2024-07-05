@@ -18,5 +18,3 @@ You can click the Preview link to take a look at your changes.
  React with Vimeo
  https://go.screenpal.com/watch/cZ1vVcV8ZPy
 
-Ahadia Mental Health App
-https://ahadiapp.netlify.app/
